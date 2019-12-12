@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Something</title>
+        <link rel="stylesheet" href="index.css">
+        <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <div class="header">
+            <button class="logoutBtn">LOGOUT</button>
+        </div>
+        <div class="main-container">
+            <div class="js-clock">
+                <h1 class="js-title"></h1>
+            </div>
+            <form class="js-form form" action="POST">
+                <input type="text" placeholder="Enter your name"/>
+            </form>
+            <h4 class="js-greetings greetings"></h4>
+            <form class="js-toDoForm">
+                <input type="text" placeholder="Write a to do" class="js-toDoInput">
+            </form>
+            <ul class="js-toDoList">
+            </ul>
+            <div class="js-weather"></div>
+        </div>
+        <div class="bg-darken"></div>
+        <script src="clock.js"></script>
+        <script src="greeting.js"></script>
+        <script src="todo.js"></script>
+        <script src="bg.js"></script>
+        <script src="weather.js"></script>
+    </body>
+</html>
