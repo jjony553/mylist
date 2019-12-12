@@ -17,3 +17,9 @@ https://jjony553.github.io/mylist/
 오른쪽 상단에 LOGOUT을 누르면 로그아웃된다.
 
 ## 스크린샷
+
+<div>
+  ![1](https://user-images.githubusercontent.com/55618626/70729175-065e9700-1d46-11ea-83f8-d5018574f00d.png)
+  ![2](https://user-images.githubusercontent.com/55618626/70729195-137b8600-1d46-11ea-8f68-684824b8842b.png)
+  ![3](https://user-images.githubusercontent.com/55618626/70729206-18403a00-1d46-11ea-9fa7-bcbcc8a1ca44.png)
+</div>
