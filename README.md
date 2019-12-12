@@ -19,7 +19,7 @@ https://jjony553.github.io/mylist/
 ## 스크린샷
 
 <div>
-  ![1](https://user-images.githubusercontent.com/55618626/70729175-065e9700-1d46-11ea-83f8-d5018574f00d.png)
-  ![2](https://user-images.githubusercontent.com/55618626/70729195-137b8600-1d46-11ea-8f68-684824b8842b.png)
-  ![3](https://user-images.githubusercontent.com/55618626/70729206-18403a00-1d46-11ea-9fa7-bcbcc8a1ca44.png)
+  <img src ="https://user-images.githubusercontent.com/55618626/70729175-065e9700-1d46-11ea-83f8-d5018574f00d.png">
+  <img src ="https://user-images.githubusercontent.com/55618626/70729195-137b8600-1d46-11ea-8f68-684824b8842b.png">
+  <img src ="https://user-images.githubusercontent.com/55618626/70729206-18403a00-1d46-11ea-9fa7-bcbcc8a1ca44.png">
 </div>
