@@ -1,8 +1,9 @@
 
 # 프로젝트 제목
 myList
-
-## 사용 방법 (Usage)
+## 작동 화면
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55618626/70772764-db615b00-1db8-11ea-8ac3-cc161b78221c.gif)
+## 사용 방법 
 1. 아래 사이트에 접속
 https://jjony553.github.io/mylist/ 
 
