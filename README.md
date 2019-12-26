@@ -1,6 +1,10 @@
 
 # 프로젝트 제목
 myList
+## 개발 도구
+* HTML
+* CSS
+* JavaScript
 ## 작동 화면
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/55618626/70772764-db615b00-1db8-11ea-8ac3-cc161b78221c.gif)
 ## 사용 방법 
